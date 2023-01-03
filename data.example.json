@@ -3,17 +3,17 @@
     {
       "name": "易书系列网站",
       "items": [
-        {"name":"论坛","url":"http://cp.example.com","icon":"forum"},
-        {"name":"博客","url":"http://rss.example.com","icon":"post-outline"}
+        {"name":"论坛","url":"https://bbs.yibook.org/","icon":"forum"},
+        {"name":"博客","url":"https://blog.yibook.org/","icon":"post-outline"}
       ]
     },
     {
       "name": "易书工具集",
       "items": [
-        {"name":"zhelper 配置工具","url":"http://play.example.com","icon":"api"},
-        {"name":"电子书站监测","url":"http://movies.example.com","icon":"list-status"},
-        {"name":"电子书网址导航","url":"http://tv.example.com","icon":"navigation-variant-outline"},
-        {"name":"在线电子书阅读器","url":"http://subs.example.com","icon":"book-open"}
+        {"name":"zhelper 配置工具","url":"https://tool.yibook.org/","icon":"api"},
+        {"name":"电子书站监测","url":"https://status.yibook.org/status/monitor","icon":"list-status"},
+        {"name":"电子书网址导航","url":"https://nav.yibook.org/","icon":"navigation-variant-outline"},
+        {"name":"在线电子书阅读器","url":"https://koodo.yibook.org/","icon":"book-open"}
       ]
     }
   ],
