@@ -3,9 +3,10 @@
     {
       "name": "易书系列",
       "items": [
-        {"name":"论坛","url":"https://bbs.yibook.org/","icon":"forum"},
-        {"name":"博客","url":"https://blog.yibook.org/","icon":"post-outline"},
-        {"name":"TG","url":"https://t.me/yibook","icon":"message"}
+        {"name":"易书论坛","url":"https://bbs.yibook.org/","icon":"forum"},
+        {"name":"易书博客","url":"https://blog.yibook.org/","icon":"post-outline"},
+        {"name":"易书TG群组","url":"https://t.me/yibook","icon":"message"},
+        {"name":"电子书搜索指南","url":"https://guide.yibook.org/","icon":"compass-outline"}
       ]
     },
     {
