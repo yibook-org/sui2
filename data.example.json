@@ -2,21 +2,22 @@
   
   "apps" : [
     {
-      "name": "易书系列",
+      "name": "常用网站",
       "items": [
-        {"name":"易书论坛","url":"https://bbs.yibook.org/","icon":"forum"},
+        {"name":"易书 zlibrary 快捷入口","url":"https://zlib.yibook.org","icon":"location-enter"},
         {"name":"易书博客","url":"https://blog.yibook.org/","icon":"post-outline"},
-        {"name":"易书TG群组","url":"https://t.me/yibook","icon":"message"},
-        {"name":"电子书搜索指南","url":"https://guide.yibook.org/","icon":"compass-outline"}
+        {"name":"易书聚合检索工具","url":"https://search.yibook.org/","icon":"magnify"},
+        {"name":"易书 zhelper 配置工具","url":"https://tool.yibook.org/","icon":"api"},
+        {"name":"易书讨论群","url":"https://contact.yibook.org","icon":"message"}
       ]
     },
     {
-      "name": "易书工具集",
+      "name": "易书系列",
       "items": [
-        {"name":"易书聚合检索工具","url":"https://search.yibook.org/","icon":"magnify"},
-        {"name":"zhelper 配置工具","url":"https://tool.yibook.org/","icon":"api"},
-        {"name":"zlib/libgen 检测","url":"https://mirror.yibook.org","icon":"list-status"},
-        {"name":"电子书网址导航","url":"https://nav.yibook.org/","icon":"navigation-variant-outline"},
+        {"name":"易书zlib/libgen 检测","url":"https://mirror.yibook.org","icon":"list-status"},
+        {"name":"易书电子书网址导航","url":"https://nav.yibook.org/","icon":"navigation-variant-outline"},
+        {"name":"易书电子书搜索指南","url":"https://guide.yibook.org/","icon":"compass-outline"},
+        {"name":"易书论坛","url":"https://bbs.yibook.org/","icon":"forum"},
         {"name":"在线电子书阅读器","url":"https://koodo.yibook.org/","icon":"book-open"}
       ]
     }
@@ -34,8 +35,8 @@
           "url": "https://ssdown.org/"
         },
         {
-          "name": "zlibrary (mirror)",
-          "url": "https://zlibrary.cf"
+          "name": "zlibrary (mirror TK)",
+          "url": "https://zlibrary.tk"
         },
         {
           "name": "TheFuture",
